@@ -1,1 +1,4 @@
-# SD5913_AS1
+The Syntax of Sight: Why a Designer Learns to Code in 2026
+We enrolled in this programming course under a strange, lingering cloud. By 2026, natural language interfaces can spin up functional applications, compile shaders, and render generative layouts from a single sentence of English. Every six months, the benchmark shifts, and the distance between a prompt and a finished artifact shrinks. If machines can write the syntax, why are we—designers and artists whose primary medium has traditionally been visual, tactile, and intuitive—sitting in front of terminal windows trying to understand variable scope and memory allocation?
+
+This is not a defense of the curriculum, nor is it an exercise in techno-optimism. It is an inquiry into what remains of creative agency when the mechanical act of production is automated. To answer why we must learn to program, we have to look past utility and examine how the act of writing code changes what we perceive as possible.# SD5913_AS1
